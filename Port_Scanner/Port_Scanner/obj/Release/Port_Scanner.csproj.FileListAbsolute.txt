@@ -1,0 +1,10 @@
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\Port_Scanner\bin\Release\Port_Scanner.exe
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\Port_Scanner\bin\Release\Port_Scanner.pdb
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\Port_Scanner\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\Port_Scanner\obj\Release\Port_Scanner.exe
+C:\Documents and Settings\Owner\Local Settings\Application Data\Temporary Projects\Port_Scanner\obj\Release\Port_Scanner.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Port_Scanner\Port_Scanner\obj\Release\Port_Scanner.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Port_Scanner\Port_Scanner\obj\Release\Port_Scanner.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Port_Scanner\Port_Scanner\bin\Release\Port_Scanner.exe
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Port_Scanner\Port_Scanner\bin\Release\Port_Scanner.pdb
+C:\Documents and Settings\Owner\My Documents\Visual Studio 2008\Projects\Port_Scanner\Port_Scanner\obj\Release\ResolveAssemblyReference.cache
